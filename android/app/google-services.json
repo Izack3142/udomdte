@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "35690548110",
+    "project_id": "udom-dte",
+    "storage_bucket": "udom-dte.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:35690548110:android:a5ad7167e5fa223269b2df",
+        "android_client_info": {
+          "package_name": "com.example.udomdte"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "35690548110-mdcou7ac41hhd9vvjmnkf967agntljc1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD93qDA9lId-tLDWZPuTBSMghTARpOZC34"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "35690548110-mdcou7ac41hhd9vvjmnkf967agntljc1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
